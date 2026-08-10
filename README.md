@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/sosc-mcp-header.png" width="640" alt="SOSC-MCP">
+<img src="sosc-mcp-header.png" width="640" alt="SOSC-MCP">
 
 **Connect Sweetheart of Sigma Chi to any AI/LLM of your choice.** Run Luau, inspect the live game, walk the DataModel, capture remotes, drive the editor, and build custom ESPs, aimbots & auto-farms — all from just prompting AI.
 
@@ -72,7 +72,7 @@ flowchart LR
 Open the app → **Settings → Agent Access** → flip **MCP Server** on. The pane fills in with everything a client needs:
 
 <div align="center">
-<img src="assets/agent-access.png" width="620" alt="Agent Access settings — MCP Server toggle, port, endpoint and bearer token">
+<img src="agent-access.png" width="620" alt="Agent Access settings — MCP Server toggle, port, endpoint and bearer token">
 </div>
 
 - **Port** — defaults to `8225`. The dot below reads **Listening for agents on port 8225** once it's up.
