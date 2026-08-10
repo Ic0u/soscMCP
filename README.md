@@ -107,7 +107,7 @@ One-click supported clients — flip the switch, restart, done. Don't have one y
 
 **3. Confirm** — in your AI client, call **`executor_status`**. It reports the selected executor and whether a Roblox client is attached. If a client is attached, you're live.
 
-<img src="mcp-call" width="620" alt="Testing MCP connection with Antigravity Agent">
+<img src="mcp-call.png" width="620" alt="Testing MCP connection with Antigravity Agent">
 
 > The port defaults to **8225** and can be changed in the Agent Access pane (the **±** stepper). Changing it re-writes every configured client. The token and port travel only over loopback.
 
