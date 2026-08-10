@@ -72,7 +72,7 @@ flowchart LR
 Open the app → **Settings → Agent Access** → flip **MCP Server** on. The pane fills in with everything a client needs:
 
 <div align="center">
-<img src="agent-access.png" width="620" alt="Agent Access settings — MCP Server toggle, port, endpoint and bearer token">
+<img src="agent-acces.png" width="620" alt="Agent Access settings — MCP Server toggle, port, endpoint and bearer token">
 </div>
 
 - **Port** — defaults to `8225`. The dot below reads **Listening for agents on port 8225** once it's up.
